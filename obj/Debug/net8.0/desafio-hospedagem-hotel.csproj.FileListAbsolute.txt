@@ -1,0 +1,15 @@
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\bin\Debug\net8.0\desafio-hospedagem-hotel.exe
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\bin\Debug\net8.0\desafio-hospedagem-hotel.deps.json
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\bin\Debug\net8.0\desafio-hospedagem-hotel.runtimeconfig.json
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\bin\Debug\net8.0\desafio-hospedagem-hotel.dll
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\bin\Debug\net8.0\desafio-hospedagem-hotel.pdb
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.AssemblyInfoInputs.cache
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.AssemblyInfo.cs
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.csproj.CoreCompileInputs.cache
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.sourcelink.json
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.dll
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\refint\desafio-hospedagem-hotel.dll
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.pdb
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\desafio-hospedagem-hotel.genruntimeconfig.cache
+C:\estudos-dotnet\desafio-hospedagem\desafio-hospedagem-hotel\obj\Debug\net8.0\ref\desafio-hospedagem-hotel.dll
