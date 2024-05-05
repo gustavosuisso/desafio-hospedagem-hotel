@@ -1,6 +1,7 @@
 ﻿using System.Text;
 using desafio_hospedagem_hotel.Models;
 
+// optei por não fazer um fork do projeto e desenvolver eu mesmo do meu jeito
 
 List<Pessoa> hospedes = new List<Pessoa>();
 
